@@ -1,5 +1,8 @@
 # Arduino
 DIY Clones done in KiCAD
 
-![Picture](Leonardo/project.png) 
 ![Picture](DIY%20Arduino/Arduino/project.png) 
+![Picture](Leonardo/project.png) 
+
+- [Uno Compatible Through Hole](DIY%20Arduino/Arduino)
+- [Leonardo Compatible Surface Mount](Leonardo/)
