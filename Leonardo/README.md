@@ -1,8 +1,7 @@
 Leo, the Arduino Leonardo clone done in KiCad.
 
-![Picture](project.png) 
+![Picture](images/project.png) 
 
-https://rheingoldheavy.com/arduino-from-scratch-part-5-selecting-comparator-parts/
 
 Bill Of Materials
 ----------------

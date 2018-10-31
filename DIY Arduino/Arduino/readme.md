@@ -1,6 +1,6 @@
 DIY Arduino clone done in KiCad.
 
-![Picture](project.png) 
+![Picture](images/project.png) 
 
 You will need to build a FTDI breakout board using a FT231XQ QFN20 chip with a pinout matching the FT231XS (SSOP-20), but in a DIP-20 spacing.  It is all downhill from there!
 
