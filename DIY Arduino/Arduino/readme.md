@@ -26,7 +26,7 @@ Bill Of Materials
 - 1 ea., D2 (Power) Green 3mm LED 5.6mcd, LiteOn LTL-4231N https://www.digikey.com/short/jn5tr0
 - 1 ea., D13 (D13) Red 3mm LED 4.4mcd, LiteOn LTL-4211N, https://www.digikey.com/short/jn5trr
 - 2 ea., D3, D4 (TX/RX) Yellow 3mm LED 6.7mcd, LiteOn LTL-4251, https://www.digikey.com/short/jn5t5f
-- 1 ea., F1 PTC RESET FUSE 30V 700MA RADIAL, Littlefuse RHEF070-2, https://www.digikey.com/short/jddbbh
+- 1 ea., F1 PTC RESET FUSE 30V 700MA RADIAL, Littlefuse RHEF070-2, https://www.digikey.com/short/pq0mtz
 - 1 ea., J1 USB B Connector, Pulse E8144-B02022-L, https://www.digikey.com/short/jn571j
 - 1 ea., J2 Barrel Jack 2.1mm, CUI 	PJ-202AH https://www.digikey.com/short/jd0wz3
 - 2 ea., P1, P3 8-Pin header, https://www.digikey.com/short/jwj4dp
